@@ -50,7 +50,7 @@ An autonomous agricultural scout robot designed to navigate farmlands, perform p
 | 5KΩ Potentiometer | Manual sensor calibration |
 | LED Strip Light | Night illumination |
 | Mi Camera 2K | High-definition video streaming |
-<img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Image%2021.png?raw=true" alt="Farm Robot 2" style="width: 300px; height: auto;" />
+
 
 ---
 
