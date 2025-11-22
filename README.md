@@ -7,7 +7,7 @@ An autonomous agricultural scout robot designed to navigate farmlands, perform p
 ## 📸 Farm-Robot Images
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Image%202024-12-25%20at%2016.48.18_64ad3d75.jpg?raw=true" alt="Farm Robot 1" style="width: 300px; height: auto;" />
+  
   <img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Image%2021.png?raw=true" alt="Farm Robot 2" style="width: 300px; height: auto;" />
   <img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Screenshot%202025-01-02%20000449.png?raw=true" alt="Farm Robot 3" style="width: 300px; height: auto;" />
   <img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Screenshot%202025-01-02%20000654.png?raw=true" alt="Farm Robot 4" style="width: 300px; height: auto;" />
@@ -50,7 +50,7 @@ An autonomous agricultural scout robot designed to navigate farmlands, perform p
 | 5KΩ Potentiometer | Manual sensor calibration |
 | LED Strip Light | Night illumination |
 | Mi Camera 2K | High-definition video streaming |
-
+<img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Image%2021.png?raw=true" alt="Farm Robot 2" style="width: 300px; height: auto;" />
 ---
 
 ## 🛠️ How It Works
