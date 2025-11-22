@@ -51,7 +51,7 @@ An autonomous agricultural scout robot designed to navigate farmlands, perform p
 | LED Strip Light | Night illumination |
 | Mi Camera 2K | High-definition video streaming |
 
-<img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Image%202024-12-25%20at%2016.48.18_64ad3d75.jpg?raw=true" alt="Farm Robot 1" style="width: 300px; height: auto;" />
+<img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Image%202024-12-25%20at%2016.48.18_64ad3d75.jpg?raw=true" alt="Farm Robot 1" style="width: 500px; height: auto;" />
   
 ---
 
