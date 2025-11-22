@@ -8,9 +8,9 @@ An autonomous agricultural scout robot designed to navigate farmlands, perform p
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   
-  <img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Image%2021.png?raw=true" alt="Farm Robot 2" style="width: 300px; height: auto;" />
-  <img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Screenshot%202025-01-02%20000449.png?raw=true" alt="Farm Robot 3" style="width: 300px; height: auto;" />
-  <img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Screenshot%202025-01-02%20000654.png?raw=true" alt="Farm Robot 4" style="width: 300px; height: auto;" />
+  <img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Image%2021.png?raw=true" alt="Farm Robot 2" style="width: 500px; height: auto;" />
+  <img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Screenshot%202025-01-02%20000449.png?raw=true" alt="Farm Robot 3" style="width: 500px; height: auto;" />
+  <img src="https://github.com/Saeed-Ghazal/Farm-Robot/blob/main/Screenshot%202025-01-02%20000654.png?raw=true" alt="Farm Robot 4" style="width: 500px; height: auto;" />
 </div>
 
 ---
