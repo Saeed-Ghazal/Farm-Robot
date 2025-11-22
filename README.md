@@ -1,6 +1,6 @@
 # Farm Robot
 
-![Robot Image](https://github.com/Saeed-Ghazal/f-tobot/blob/main/robot_image.png?raw=true)
+
 
 An autonomous agricultural scout robot designed to navigate farmlands, perform planting and watering tasks, and monitor environmental conditions. It integrates environmental sensors, a high-resolution camera, front-facing LED lights, and can be fully controlled via a mobile application through Bluetooth.
 
